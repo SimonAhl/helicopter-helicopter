@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\ghk\bin\Debug\net5.0\ghk.exe
+C:\Users\Admin\Desktop\ghk\bin\Debug\net5.0\ghk.deps.json
+C:\Users\Admin\Desktop\ghk\bin\Debug\net5.0\ghk.runtimeconfig.json
+C:\Users\Admin\Desktop\ghk\bin\Debug\net5.0\ghk.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ghk\bin\Debug\net5.0\ghk.dll
+C:\Users\Admin\Desktop\ghk\bin\Debug\net5.0\ref\ghk.dll
+C:\Users\Admin\Desktop\ghk\bin\Debug\net5.0\ghk.pdb
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.dll
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ref\ghk.dll
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.pdb
+C:\Users\Admin\Desktop\ghk\obj\Debug\net5.0\ghk.genruntimeconfig.cache
